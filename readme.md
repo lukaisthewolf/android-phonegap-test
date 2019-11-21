@@ -1,9 +1,6 @@
 # PhoneGap Workshop #
-
 ## sub header ##
-
 In this tutorial, you create a fully functional employee directory application with PhoneGap. You will learn:
-
 - How to use different local data storage strategies.
 - How to use several PhoneGap APIs such as Geolocation, Contacts, and Camera.
 - How to handle specific mobile problems such as touch events, scrolling, styling, page transitions, etc.
