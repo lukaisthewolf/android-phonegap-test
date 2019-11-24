@@ -2,7 +2,7 @@ Biggest header
 =======
 # PhoneGap Workshop #
 ## sub header ##
-In this tutorial, you create a fully functional employee directory application with PhoneGap. You will learn:
+In this tutorial, you create a fully functional employee directory application with PhoneGap.  You will learn:
 
 `if (x === 2) {
   console.log(2);
