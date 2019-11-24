@@ -1,4 +1,4 @@
-Biggest header pam pam un header mare, mare, cat sa cuprinda doua linii; oare trebuie markup de biggest header si pe a doua linie? pam apam 123456789123456789
+Biggest header
 =======
 # PhoneGap Workshop #
 ## sub header ##
